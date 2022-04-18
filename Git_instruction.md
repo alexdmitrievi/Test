@@ -16,3 +16,7 @@ git config --list
 ```sh
 git init
 ```
+## Статус 
+```sh
+git status
+```
